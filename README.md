@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Discord AI Assistant Bot
 
 This Discord bot is an AI-powered personal assistant with various features to help manage tasks, notes, and reminders. It also includes basic sentiment analysis to adapt its responses to user messages.
@@ -73,3 +74,6 @@ Feel free to fork this project and submit pull requests with new features or imp
 ## License
 
 This project is licensed under the MIT License.
+=======
+# discordbotclaudengeneer
+>>>>>>> origin/main
